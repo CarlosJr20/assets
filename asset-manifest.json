@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cd5d2f06.chunk.css",
+    "main.js": "/static/js/main.2addd894.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.e3954913.js",
+    "static/js/2.3853f2c6.chunk.js": "/static/js/2.3853f2c6.chunk.js",
+    "index.html": "/index.html",
+    "static/js/2.3853f2c6.chunk.js.LICENSE.txt": "/static/js/2.3853f2c6.chunk.js.LICENSE.txt",
+    "static/media/banner1.7ccc61e1.jpeg": "/static/media/banner1.7ccc61e1.jpeg",
+    "static/media/dra-juliana-institucional.6ccffdb6.mp4": "/static/media/dra-juliana-institucional.6ccffdb6.mp4",
+    "static/media/dra-juliana-schettini-clinica.1e749074.jpeg": "/static/media/dra-juliana-schettini-clinica.1e749074.jpeg",
+    "static/media/dra-juliana-schettini-consulta.284a27fd.png": "/static/media/dra-juliana-schettini-consulta.284a27fd.png",
+    "static/media/dra-juliana-schettini-contato.fcb5478c.jpeg": "/static/media/dra-juliana-schettini-contato.fcb5478c.jpeg",
+    "static/media/dra-juliana-schettini-empoderamento.cbf61337.png": "/static/media/dra-juliana-schettini-empoderamento.cbf61337.png",
+    "static/media/dra-juliana-schettini-news.cdf8d61c.png": "/static/media/dra-juliana-schettini-news.cdf8d61c.png",
+    "static/media/dra-juliana-schettini-qualidade.f7a0f3ed.png": "/static/media/dra-juliana-schettini-qualidade.f7a0f3ed.png",
+    "static/media/dra-juliana-schettini-quem-e.9f099bab.jpeg": "/static/media/dra-juliana-schettini-quem-e.9f099bab.jpeg",
+    "static/media/dra-juliana-schettini-rejuvenescimento.c6fcce19.png": "/static/media/dra-juliana-schettini-rejuvenescimento.c6fcce19.png",
+    "static/media/dra-juliana-schettini-saude.af94c8a6.png": "/static/media/dra-juliana-schettini-saude.af94c8a6.png",
+    "static/media/dra-juliana-schettini-services.7ddf7d64.jpeg": "/static/media/dra-juliana-schettini-services.7ddf7d64.jpeg",
+    "static/media/index.css": "/static/media/futura.4e762c29.ttf",
+    "static/media/logo.fd712d90.png": "/static/media/logo.fd712d90.png",
+    "static/media/marca.5344bf89.png": "/static/media/marca.5344bf89.png",
+    "static/media/contact.css": "/static/media/ondaInf.df4d51e9.png",
+    "static/media/header.css": "/static/media/ondaSup.2669dd0b.png",
+    "static/media/prevencao-da-gravidez-na-adolescencia.e8c77c95.pdf": "/static/media/prevencao-da-gravidez-na-adolescencia.e8c77c95.pdf",
+    "static/media/preview.54611b08.jpeg": "/static/media/preview.54611b08.jpeg",
+    "static/media/recupere-sua-saude-intima.54f7092f.pdf": "/static/media/recupere-sua-saude-intima.54f7092f.pdf",
+    "static/media/whats.fc443ddb.png": "/static/media/whats.fc443ddb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3954913.js",
+    "static/js/2.3853f2c6.chunk.js",
+    "static/css/main.cd5d2f06.chunk.css",
+    "static/js/main.2addd894.chunk.js"
+  ]
+}
